@@ -95,6 +95,5 @@ def main():
         print(h.pop())
         print(h)
 
-
-
-main()
+if __name__ == "__main__":
+    main()
